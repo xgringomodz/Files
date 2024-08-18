@@ -1,0 +1,422 @@
+[
+    {
+        "Character Name": "Olivia",
+        "Skill Name": "Healing Touch",
+        "Skill Type": "Passive",
+        "Skill Type": "Passive",
+        "Skill id": "106",
+        "Skill Description": "Increase healing effects by 30% and spread 80% of the user's single-target healing amount to teammates within 15m"
+    },
+    {
+        "Character Name": "Kelly",
+        "Skill Name": "Deadly Velocity",
+        "Skill Type": "Passive",
+        "Skill id": "206",
+        "Skill Description": "Sprinting speed increases by 6%"
+    },
+    {
+        "Character Name": "Ford",
+        "Skill Name": "Iron Will",
+        "Skill Type": "Passive",
+        "Skill id": "306",
+        "Skill Description": "Gain 10 HP/s for 4s when taking damage. After releasing an active skill, this passive skill will reset immediately. Cooldown: 20S"
+    },
+    {
+        "Character Name": "Andrew",
+        "Skill Name": "Armour Specialist",
+        "Skill Type": "Passive",
+        "Skill id": "406",
+        "Skill Description": "Armor durability loss decreases by 40%."
+    },
+    {
+        "Character Name": "Nikita",
+        "Skill Name": "Firearms Expert",
+        "Skill Type": "Passive",
+        "Skill id": "506",
+        "Skill Description": "Reload speed increases by 30%. Every time the skill user hits an enemy, said target will get a 30% healing deduction that lasts for 10s (max. deduction: 30%)"
+    },
+    {
+        "Character Name": "Misha",
+        "Skill Name": "Afterburner",
+        "Skill Type": "Passive",
+        "Skill id": "606",
+        "Skill Description": "Driving speed increases by 10%. While in vehicle, character is harder to be targeted at, and damage taken is decreased by 20%"
+    },
+    {
+        "Character Name": "Maxim",
+        "Skill Name": "Gluttony",
+        "Skill Type": "Passive",
+        "Skill id": "706",
+        "Skill Description": "Eating mushrooms and using Med Kits faster by 25%"
+    },
+    {
+        "Character Name": "Kla",
+        "Skill Name": "Muay Thai",
+        "Skill Type": "Passive",
+        "Skill id": "806",
+        "Skill Description": "Fist damage increases by 400%"
+    },
+    {
+        "Character Name": "Paloma",
+        "Skill Name": "Arms-dealing",
+        "Skill Type": "Passive",
+        "Skill id": "906",
+        "Skill Description": "Get an additional 120 backpack capacity for ammo, excluding Grenade Launcher (120 AR Ammo, 120 SMG Ammo, 60 Sniper Ammo, 60 SG Ammo"
+    },
+    {
+        "Character Name": "Miguel",
+        "Skill Name": "Crazy Slayer",
+        "Skill Type": "Passive",
+        "Skill id": "1006",
+        "Skill Description": "Gain 200 EP by knocking down an enemy."
+    },
+    {
+        "Character Name": "Caroline",
+        "Skill Name": "Agility",
+        "Skill Type": "Passive",
+        "Skill id": "1106",
+        "Skill Description": "When holding a shotgun, movement speed increases by 16%."
+    },
+    {
+        "Character Name": "Wukong",
+        "Skill Name": "Camouflage",
+        "Skill Type": "Active",
+        "Skill id": "1206",
+        "Skill Description": "Transforms into a bush that lasts for 15s. Cooldown: 75s. Transformation ends when Wukong attacks. CD resets when Wukong takes down an enemy."
+    },
+    {
+        "Character Name": "Antonio",
+        "Skill Name": "Gangster's Spirit",
+        "Skill Type": "Passive",
+        "Skill id": "1306",
+        "Skill Description": "Get 30 extra Shield Points at the start of the match. Recovers Shield Points after surviving combat."
+    },
+    {
+        "Character Name": "Moco",
+        "Skill Name": "Hacker's Eye",
+        "Skill Type": "Passive",
+        "Skill id": "1406",
+        "Skill Description": "Tag hit enemies for 5s. Info will be shared with teammates."
+    },
+    {
+        "Character Name": "Hayato",
+        "Skill Name": "Art of Blades",
+        "Skill Type": "Passive",
+        "Skill id": "1506",
+        "Skill Description": "With every 13% decrease in maximum HP, armor penetration increases by 5%."
+    },
+    {
+        "Character Name": "Laura",
+        "Skill Name": "Sharp Shooter",
+        "Skill Type": "Passive",
+        "Skill id": "1706",
+        "Skill Description": "Accuracy increases by 50% while scoped in."
+    },
+    {
+        "Character Name": "Rafael",
+        "Skill Name": "Dead Silent",
+        "Skill Type": "Passive",
+        "Skill id": "1806",
+        "Skill Description": "When using Snipers and Marksman Rifles, firing sound is silenced and enemies knocked down by the user bleed 85% faster."
+    },
+    {
+        "Character Name": "A124",
+        "Skill Name": "Thrill of Battle",
+        "Skill Type": "Active",
+        "Skill id": "1906",
+        "Skill Description": "Unleashes a 8m electromagnetic wave that disables enemies' skill activation, inflicts 25 DMG, and interrupts their interaction countdown. Lasts for 20s. Cooldown: 75s."
+    },
+    {
+        "Character Name": "Joseph",
+        "Skill Name": "Silver Spoon",
+        "Skill Type": "Passive",
+        "Skill id": "2006",
+        "Skill Description": "Become immune from disruptive effects (e.g. slowdown, marking, skill-silencing) and have a 10% movement speed boost for 5s. Cooldown: 45s."
+    },
+    {
+        "Character Name": "Shani",
+        "Skill Name": "Gear Recycle",
+        "Skill Type": "Passive",
+        "Skill id": "2106",
+        "Skill Description": "When using an active skill, gives 40 Shield Points to self and teammates within 10m. The Shield Points decay after 5s, after which players can obtain the effects again. Cooldown: 10s."
+    },
+    {
+        "Character Name": "Alok",
+        "Skill Name": "Drop the Beat",
+        "Skill Type": "Active",
+        "Skill id": "2206",
+        "Skill Description": "Creates a 5m aura that increases movement speed by 15% and restores 5 HP/s for 10s. Effects do not stack. Cooldown: 45s."
+    },
+    {
+        "Character Name": "Alvaro",
+        "Skill Name": "Split Blitz",
+        "Skill Type": "Passive",
+        "Skill id": "2306",
+        "Skill Description": "Explosive weapon damage increases by 20%, damage range increases by 10%."
+    },
+    {
+        "Character Name": "Notora",
+        "Skill Name": "Racer's Blessing",
+        "Skill Type": "Passive",
+        "Skill id": "2406",
+        "Skill Description": "When driving, restores 5 HP every 2s for everyone in the vehicle, up to a maximum of 200 HP."
+    },
+    {
+        "Character Name": "Kelly",
+        "Skill Name": "Deadly Velocity",
+        "Skill Type": "Passive",
+        "Skill id": "2506",
+        "Skill Description": "Sprinting speed increases by 6%. Awakening: Sprint for 4s to activate. When activated, first 1 shot on target inflicts 106% damage. Lasts for 5s."
+    },
+    {
+        "Character Name": "Steffie",
+        "Skill Name": "Painted Refuge",
+        "Skill Type": "Active",
+        "Skill id": "2606",
+        "Skill Description": "Creates a 4m area, where throwables are invalid. Allies in the area will restore 10% armor durability per second and damage from ammo will reduce by 20%. Lasts for 15s. Effects do not stack. Cooldown: 60s."
+    },
+    {
+        "Character Name": "Jota",
+        "Skill Name": "Sustained Raids",
+        "Skill Type": "Passive",
+        "Skill id": "2706",
+        "Skill Description": "When the skill user is using guns, hitting an enemy recovers some HP and knocking down an enemy recovers 20% HP."
+    },
+    {
+        "Character Name": "Kapella",
+        "Skill Name": "Remedy Rounds",
+        "Skill Type": "Passive",
+        "Skill id": "2806",
+        "Skill Description": "Heal teammates with ammo by 20% of the damage dealt. When using a Heal Pistol, increase healing effects by 20%."
+    },
+    {
+        "Character Name": "Luqueta",
+        "Skill Name": "Hat Trick",
+        "Skill Type": "Passive",
+        "Skill id": "2906",
+        "Skill Description": "Every elimination increases max. HP by 25. Max. boost: 50."
+    },
+    {
+        "Character Name": "Wolfrahh",
+        "Skill Name": "Limelight",
+        "Skill Type": "Passive",
+        "Skill id": "3006",
+        "Skill Description": "Every elimination will add one spectator, and the number of spectators will not reduce. With each additional spectator, damage taken from headshots reduces by 7% (max. 21%) and headshot damage to enemies increases by 10% (max. 30%)."
+    },
+    {
+        "Character Name": "Clu",
+        "Skill Name": "Tracing Steps",
+        "Skill Type": "Active",
+        "Skill id": "3106",
+        "Skill Description": "Locate positions of enemies within 80m who are not in prone or squat position. Lasts for 10s. Enemy positions are shared with teammates. Cooldown: 45s."
+    },
+    {
+        "Character Name": "Elite Hayato",
+        "Skill Name": "Art of Blades",
+        "Skill Type": "Passive",
+        "Skill id": "3206",
+        "Skill Description": "With every 13% decrease in maximum HP, armor penetration increases by 5%. Awakening: Reduces frontal damage by 2% for every 10% of max. HP loss."
+    },
+{
+        "Character Name": "Jai",
+        "Skill Name": "Raging Reload",
+        "Skill Type": "Passive",
+        "Skill id": "3306",
+        "Skill Description": "After knowcking down an enemy or using an active skill, 100% of the gun's magazine reloads automatically"
+    },
+    {
+        "Character Name": "K",
+        "Skill Name": "Master of All",
+        "Skill Type": "Active",
+        "Skill id": "3406",
+        "Skill Description": "Max. EP increases by 50. Jiu-jitsu Mode: Allies within 6m get 600% increase in EP conversion rate. Psychology Mode: Recover 3 EP every 2s, up to 250 EP. Mode switch Cooldown: 6s."
+    },
+    {
+        "Character Name": "Dasha",
+        "Skill Name": "Partying On",
+        "Skill Type": "Passive",
+        "Skill id": "3506",
+        "Skill Description": "After knocking down an enemy, enter Highlight mode, which increases rate of fire by 18% and movement speed by 12% but then decays quickly. Lasts for 6s. During Highlight mode, consecutively knocking down enemies will reset countdown and further boost rate of fire by 4% and movement speed by 3%."
+    },
+    {
+        "Character Name": "Chrono",
+        "Skill Name": "Time Turner",
+        "Skill Type": "Active",
+        "Skill id": "3806",
+        "Skill Description": "Creates an impenetrable force field that blocks 800 DMG. Unable to attack outside enemies from within the field. All effects last for 8s. Cooldown: 75s."
+    },
+    {
+        "Character Name": "Skyler",
+        "Skill Name": "Riptide Rhythm",
+        "Skill Type": "Active",
+        "Skill id": "4006",
+        "Skill Description": "Unleashes a sonic wave forward for up to 100m. When hitting an obstacle, the wave will explode and deal 500 DMG/s to Gloo Walls within 4m. Lasts 6s. Cooldown: 45s. Up to 2 skill charges can be stored."
+    },
+    {
+        "Character Name": "Shirou",
+        "Skill Name": "Damage Delivered",
+        "Skill Type": "Passive",
+        "Skill id": "4106",
+        "Skill Description": "When hit by an enemy from within 100m, said attacker is marked for 10s (intel is shared with teammates). Max. 4 markings."
+    },
+    {
+        "Character Name": "Andrew the Fierce",
+        "Skill Name": "Wolf Pack",
+        "Skill Type": "Passive",
+        "Skill id": "4206",
+        "Skill Description": "Armor durability loss decreases by 40%. Awakening: Armor damage reduction boosted by 5%. Additional 5% damage reduction from every teammate carrying this skill."
+    },
+    {
+        "Character Name": "Maro",
+        "Skill Name": "Falcon Fervor",
+        "Skill Type": "Passive",
+        "Skill id": "4306",
+        "Skill Description": "Damage increases with distance, up to 25%. Damage to marked enemies increases by 3.5%."
+    },
+    {
+        "Character Name": "Xayne",
+        "Skill Name": "Xtreme Encounter",
+        "Skill Type": "Passive",
+        "Skill id": "4406",
+        "Skill Description": "Xtreme Mode: Get 60 temporary HP for 12s. During this time, HP-healing effects are enhanced by 75%. Cooldown: 75s."
+    },
+    {
+        "Character Name": "D-Bee",
+        "Skill Name": "Bullet Beats",
+        "Skill Type": "Passive",
+        "Skill id": "4506",
+        "Skill Description": "When firing while moving, movement speed increases by 30%, accuracy increases by 60%."
+    },
+    {
+        "Character Name": "Thiva",
+        "Skill Name": "Vital Vibes",
+        "Skill Type": "Passive",
+        "Skill id": "4606",
+        "Skill Description": "The speed of helping up teammates is increased by 70%. Cooldown: 90s. The helped up teammate recovers 60 HP in 3s."
+    },
+    {
+        "Character Name": "Dimitri",
+        "Skill Name": "Healing Heartbeat",
+        "Skill Type": "Active",
+        "Skill id": "4706",
+        "Skill Description": "Creates a 3.5m-radius healing zone. Inside, user and allies recover 10 HP/s. Help up will be automatically triggered when needed. Zone lasts for 6s. The effects of helping up teammates can be enhanced by other skills. Cooldown: 90s."
+    },
+    {
+        "Character Name": "Moco Enigma",
+        "Skill Name": "Enigma's Eye",
+        "Skill Type": "Passive",
+        "Skill id": "4806",
+        "Skill Description": "Tag hit enemies for 5s. Info will be shared with teammates. Awakening: Markings on hit enemies last longer when enemies move (up to 6.5s longer)."
+    },
+    {
+        "Character Name": "Leon",
+        "Skill Name": "Buzzer Beater",
+        "Skill Type": "Passive",
+        "Skill id": "4906",
+        "Skill Description": "4s after being attacked, recover 4HP/s for 15s"
+    },
+    {
+        "Character Name": "Otho",
+        "Skill Name": "Memory Mist",
+        "Skill Type": "Passive",
+        "Skill id": "5006",
+        "Skill Description": "After knocking down an enemy, marks their teammates within 20m from them and slows down their movement speed by 25%. Lasts for 4s. When knocked down by a nearby enemy, marks and slows down the attacker and their teammates."
+    },
+    {
+        "Character Name": "Nairi",
+        "Skill Name": "Ice Iron",
+        "Skill Type": "Passive",
+        "Skill id": "5206",
+        "Skill Description": "Within 3s after deploying Gloo Walls, restores 160 durability/s for them and restores 10HP/s for teammates within 5m. The healing effect cannot be stacked by deploying multiple Gloo Walls."
+    },
+    {
+        "Character Name": "Luna",
+        "Skill Name": "Fight-or-Flight",
+        "Skill Type": "Passive",
+        "Skill id": "5306",
+        "Skill Description": "Increases firing rate by 8%. When user hits an enemy, a maximum of 15% of the firing rate converts into movement speed, and the conversion resets when user survives the combat."
+    },
+    {
+        "Character Name": "Kenta",
+        "Skill Name": "Swordsman's Wrath",
+        "Skill Type": "Active",
+        "Skill id": "5406",
+        "Skill Description": "Forms a shield of 5m width that reduces 60% weapon damage coming from the front. When firing, the shield's damage reduction reduces to 20%. Lasts for 5s. Cooldown: 70s."
+    },
+    {
+        "Character Name": "Homer",
+        "Skill Name": "Senses Shockwave",
+        "Skill Type": "Active",
+        "Skill id": "5506",
+        "Skill Description": "Releases a drone towards the nearest enemy within a 100m frontal distance, creating a 5m-diameter pulse explosion which reduces movement speed by 40% and firing speed by 40%. Lasts for 5s. Deels 25 DMG. Cooldown: 60s."
+    },
+    {
+        "Character Name": "Iris",
+        "Skill Name": "Wall Brawl",
+        "Skill Type": "Active",
+        "Skill id": "5606",
+        "Skill Description": "For 15s, successfully firing at a Gloo Wall will mark enemies within 7m of it and penetrate the Gloo Wall to cause damage to marked enemies (damage inflicted will be lower than usual). Effective on 5 Gloo Walls max. Cooldown: 60s."
+    },
+    {
+        "Character Name": "J.Biebs",
+        "Skill Name": "Silent Sentinel",
+        "Skill Type": "Passive",
+        "Skill id": "5706",
+        "Skill Description": "Skill user and allies within 15m can block 8% DMG using EP. In this case, the amount of EP deducted from allies will be added to the skill user's EP."
+    },
+    {
+        "Character Name": "Tatsuya",
+        "Skill Name": "Rebel Rush",
+        "Skill Type": "Active",
+        "Skill id": "5806",
+        "Skill Description": "Dashes forward at a rapid speed for 0.35. This skill can be accumulated for up to 2 uses, with a 1s cooldown between each use. Dash replenish time: 60s."
+    },
+    {
+        "Character Name": "Santino",
+        "Skill Name": "Shape Splitter",
+        "Skill Type": "Active",
+        "Skill id": "6006",
+        "Skill Description": "Spawn a 200 HP mannequin that autonomously travels for 25s. When the mannequin is within 60m, use the skill again to switch positions with it. You can only switch once within 3s, up to 2 time(s) in total. The player who destroys the mannequin will be marked for 5s. Cooldown: 60s."
+    },
+    {
+        "Character Name": "Orion",
+        "Skill Name": "Crimson Crush",
+        "Skill Type": "Active",
+        "Skill id": "6206",
+        "Skill Description": "Replaces EP with 300 Crimson Energy. Consumes 200 Crimson Energy to activate its protection, during which you cannot take damage or attack enemies and will absorb 10 HP (ignoring enemy Shield Points) from foes within 5m. Lasts for 3s, during which your movement speed will decrease by 20%. Cooldown: 3s."
+    },
+    {
+        "Character Name": "Alvaro Rageblast",
+        "Skill Name": "Split Blitz",
+        "Skill Type": "Passive",
+        "Skill id": "6306",
+        "Skill Description": "Explosive weapon damage increases by 20%, damage range increases by 10%. Awakening: 1s before detonating, grenade produces 3 extra grenades, which can cause 20% damage of their original"
+    },
+    {
+        "Character Name": "Sonia",
+        "Skill Name": "Nano Lifeshield",
+        "Skill Type": "Passive",
+        "Skill id": "6506",
+        "Skill Description": "After taking fatal damage, enter an invulnerable and immobile state for 0.45. Then, gain a 50 HP shield that lasts for 2s. The skill user will be eliminated when the shield disappears. Cooldown: 180s."
+    },
+    {
+        "Character Name": "Suzy",
+        "Skill Name": "Money Mark",
+        "Skill Type": "Passive",
+        "Skill id": "6606",
+        "Skill Description": "Your enemy markings have bounty value. Anyone on ally team who eliminates a marked enemy will earn 200 in-match currency. You will earn an extra 100 for eliminating an enemy. Receive extra 100 FF Coins from Coin Machines in BR matches."
+    },
+    {
+        "Character Name": "Ignis",
+        "Skill Name": "Flame Mirage",
+        "Skill Type": "Active",
+        "Skill id": "6706",
+        "Skill Description": "Deploy a flaming screen that is 12m wide and lasts for 10s (max. deployment distance: 15m). Enemies and Gloo Walls that get in touch with the screen will experience a burning effect: instantly take 30 DMG and, for every subsequent second, take 10 DMG and lose 20% armor durability. Burning effect lasts for 2s. Gloo Walls will instantly receive 200 DMG, and 200 DMG/s for 1s. Cooldown: 60s."
+    },
+    {
+        "Character Name": "Awakened Alok",
+        "Skill Name": "Party Remix",
+        "Skill Type": "Active",
+        "Skill id": "22016",
+        "Skill Description": "Creates a 5m aura that increases movement speed by 15% and restores 5 HP/s for 10s. Effects do not stack. Cooldown: 45s. Awakening: While the aura is active, music notes that last for 5s will be dropped 2m behind the skill user every 2s. Teammates who pick up the music note will receive the same effect as the aura"
+    }]
